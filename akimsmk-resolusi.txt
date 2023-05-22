@@ -1,0 +1,5 @@
+Saya Konsisten Belajar Coding Setiap Hari
+HTML & CSS
+Bootstrap Tailwind CSS
+Javascript React.js vue js
+PHP CodeIgniter Laravel
