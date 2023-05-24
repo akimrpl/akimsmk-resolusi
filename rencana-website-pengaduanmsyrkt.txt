@@ -2,3 +2,4 @@ Halaman Sign Up
 Halaman Login
 Halaman Beranda/Dashboard
 Halaman Isi
+Halaman Footer
